@@ -1,8 +1,8 @@
-# Orion Computer Use
+# Computer Use
 
 An open-source project exploring verifiable computer use for AI agents.
 
-Orion Computer Use aims to help an AI worker operate desktop applications and report **what actually happened**, with evidence that a manager or human can inspect. Its first milestone is a small, local macOS workflow—not a general-purpose autonomous desktop agent.
+Computer Use aims to help an AI worker operate desktop applications and report **what actually happened**, with evidence that a manager or human can inspect. Its first milestone is a small, local macOS workflow—not a general-purpose autonomous desktop agent.
 
 > **Status: planning.** This repository currently contains project goals and an MVP plan only. No desktop control, agent, MCP server, or benchmark has been implemented yet.
 
@@ -23,7 +23,7 @@ The MVP is planned to use a deterministic task definition. It does **not** requi
 
 ## 中文简介
 
-Orion Computer Use 是一个探索 **AI Worker 可靠操作电脑并提供可验证结果** 的开源项目。首个版本计划在 macOS 上完成一个本地、可重复的桌面任务，检查最终文件，并输出清晰的成功或失败报告。当前项目处于规划阶段，尚无可运行实现。
+Computer Use 是一个探索 **AI Worker 可靠操作电脑并提供可验证结果** 的开源项目。首个版本计划在 macOS 上完成一个本地、可重复的桌面任务，检查最终文件，并输出清晰的成功或失败报告。当前项目处于规划阶段，尚无可运行实现。
 
 ## Contributing
 
